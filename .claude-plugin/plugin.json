@@ -1,0 +1,9 @@
+{
+  "name": "marketing-orchestration",
+  "version": "1.0.0",
+  "description": "Marketing workflow orchestration with pod-based agents and campaign commands. Adapter layer over alirezarezvani/marketing-skills for skill content.",
+  "author": {
+    "name": "Anil Unkaya"
+  },
+  "license": "MIT"
+}
