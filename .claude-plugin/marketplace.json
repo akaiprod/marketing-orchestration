@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "marketing-orchestration",
+  "description": "Marketing workflow orchestration with agents, commands, and skills for campaign management",
+  "owner": {
+    "name": "Anil Unkaya"
+  },
+  "plugins": [
+    {
+      "name": "marketing-orchestration",
+      "description": "Marketing workflow orchestration with pod-based agents and campaign commands",
+      "author": {
+        "name": "Anil Unkaya"
+      },
+      "source": "./marketing-orchestration",
+      "category": "marketing"
+    }
+  ]
+}
